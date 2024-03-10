@@ -1,0 +1,1 @@
+A student management system developed with Tkinter, Python, and SQLite enables efficient organization of student data. It offers functionalities for adding, updating, and deleting student records, managing grades, and generating reports. Tkinter provides a user-friendly interface while SQLite ensures secure data storage and retrieval within the application
